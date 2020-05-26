@@ -1,0 +1,5 @@
+(1) initial == 'W'
+(2) (age + year)%7 == 0
+(3) magic >= 50 && lv < 20
+(4) day == 28 || day == 30 || day == 31
+(5) !(x == y)
